@@ -1,1 +1,1 @@
-
+A full-stack AI blog platform built with the MERN stack, featuring JWT authentication for secure login/sign-up and seamless blog management. Users can generate high-quality blog posts using Google Gemini AI, manage their content, and explore posts in a fully responsive, modern UI styled with Tailwind CSS and React.
